@@ -1,3 +1,3 @@
 # WDI-fundamentals-memorygame
 
-A memory game to practice HTML CSS and JavaScript.
+A memory game built with HTML CSS and JavaScript.
