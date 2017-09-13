@@ -3,22 +3,22 @@ var cards = [
 {
 	rank: "queen",
 	suit: "hearts",
-	cardImage: "Images/queen-of-hearts.png"
+	cardImage: "Images/queen-of-hearts.PNG"
 },
 {
 	rank: "queen",
 	suit: "diamonds",
-	cardImage: "Images/queen-of-diamonds.png"
+	cardImage: "Images/queen-of-diamonds.PNG"
 },
 {
 	rank: "king",
 	suit: "hearts",
-	cardImage: "Images/king-of-hearts.png"
+	cardImage: "Images/king-of-hearts.PNG"
 },
 {
 	rank: "king",
 	suit: "diamonds",
-	cardImage: "Images/king-of-diamonds.png"
+	cardImage: "Images/king-of-diamonds.PNG"
 }
 ];
 
