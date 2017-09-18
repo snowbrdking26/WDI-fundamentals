@@ -3,4 +3,4 @@
 A memory game built with HTML CSS and JavaScript.
 
 Click here to play:
-https://snowbrdking26.github.io/WDI-fundamentals-memorygame/Memorygame.html
+https://snowbrdking26.github.io/WDI-fundamentals-memorygame/Main.html
