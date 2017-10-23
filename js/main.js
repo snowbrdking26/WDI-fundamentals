@@ -56,7 +56,7 @@ var resetBoard = function () {
 
 
 
-//shuffle below 
+//shuffle below from "Fisher-Yates-Durstenfeld shuffle" - Code Academy
 
 shuffle(cards);
 function shuffle(sourceArray) {
@@ -73,7 +73,7 @@ console.log(cards);
 
 }
 
-//shuffle above from "Fisher-Yates-Durstenfeld shuffle"
+//shuffle above from "Fisher-Yates-Durstenfeld shuffle" - Code Academy
 
 
 var flipCard = function () {
@@ -94,7 +94,7 @@ var flipCard = function () {
 
 }
 
-
+//below used some code from Stackoverflow to help correct a few errors in my code.
 
 var createBoard = function() {
  	for (var i = 0; i < cards.length; i++) {
@@ -110,6 +110,7 @@ resetButton.addEventListener('click', resetBoard)
 
 createBoard();
 
+//above used some code from Stackoverflow to help correct a few errors in my code.
 
 
 

@@ -9,5 +9,5 @@ http://www.developphp.com/video/JavaScript/Memory-Game-Programming-Tutorial
 
 
 
-From stackoverflow link below, I used parts of the code to correct a few errors in my code
+From stackoverflow link below, I used parts of the code to correct a few errors in my code lines 99-105 on main.js
 https://stackoverflow.com/questions/42601963/problems-with-a-class-assignment
